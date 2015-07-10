@@ -83,6 +83,7 @@ Collate:
     'race.R'
     'relate.R'
     'religion.R'
+    'reshape_long.R'
     'sat.R'
     'second.R'
     'sentence.R'
